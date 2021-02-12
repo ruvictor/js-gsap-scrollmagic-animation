@@ -19,7 +19,6 @@ header h1 {
     height: 100vh;
     background-image: url("./img/background.jpg");
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
     background-position: center;
     position: relative;
     overflow: hidden;
